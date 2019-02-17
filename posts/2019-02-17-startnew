@@ -1,3 +1,12 @@
+---
+layout: post
+title: 記事のタイトル
+excerpt: 記事一覧で表示する抜粋の文章を設定
+date: 2019-02-17
+tags：タグ
+author: 吉川
+---
+
 # hello
 
 start new page.
